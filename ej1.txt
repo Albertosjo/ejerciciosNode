@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Prueba</title>
+</head>
+<body>
+
+<h1>Intro</h1>
+<p>Primer párrafo</p>
+
+</body>
+</html>
